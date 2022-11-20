@@ -7,6 +7,6 @@ Additionally, they can sign up, sign in, sign out and add or remove properties f
 
 ## Technologies used
 
-Application of both frontend and backend technologies like HTML, Bootstrap, JavaScript, MySQL, PHP and React to implement the structure and functionality of the website..
+Application of both frontend and backend technologies like HTML, Bootstrap, JavaScript, MySQL, PHP and React to implement the structure and functionality of the website.
 
 
